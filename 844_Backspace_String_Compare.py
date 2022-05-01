@@ -1,6 +1,6 @@
 def codeclean(s):
     """
-    cleans the first backspace key in a list and calls itself again.
+    cleans the first backspace key in a list and calls itself again
     returns if there are no more backspace keys
     """
     check = 0
